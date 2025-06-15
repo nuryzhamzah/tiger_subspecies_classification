@@ -20,11 +20,11 @@ This project is a deep learning-based image classification model developed to id
 
 ## 🧠 Team Members and Roles
 
-| Name                   | Role             |
-|------------------------|------------------|
-| Nur Izzati             | Data Engineer    |
-| Nur Aina Nabila        | Data Scientist   |
-| Syarifah Irdina Izzati | Data Analyst     |
+| Name                   | Role                     | 
+|------------------------|--------------------------|
+| Nur Izzati             | Data Engineer   (part1)  |
+| Nur Aina Nabila        | Data Scientist  (part2)  |
+| Syarifah Irdina Izzati | Data Analyst    (part3)  |
 
 ## 🖼️ Dataset
 
