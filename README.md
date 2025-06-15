@@ -7,7 +7,7 @@ This project is a deep learning-based image classification model developed to id
 - **Project Title**: Tiger Species Image Classification
 - **University**: UniKL MIIT
 - **Course**: ISB46703 Principles of Artificial Intelligence
-- **Group Name**: RAWRR
+- **Group Name**: RAWR
 - **Semester**: March 2025
 - **Model Used**: CNN (ResNet50, MobileNetV3, DenseNet121 )
 
